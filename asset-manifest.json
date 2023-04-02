@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BuscadorClave/static/css/main.d9f22930.css",
+    "main.js": "/BuscadorClave/static/js/main.457112c5.js",
+    "index.html": "/BuscadorClave/index.html",
+    "main.d9f22930.css.map": "/BuscadorClave/static/css/main.d9f22930.css.map",
+    "main.457112c5.js.map": "/BuscadorClave/static/js/main.457112c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9f22930.css",
+    "static/js/main.457112c5.js"
+  ]
+}
